@@ -10,7 +10,7 @@ Tableau Public domain is a tool used for this analysis. New York City's CitiBike
 
 ## Results
 
-The city of Des Moines, Iowa is a prime candidate for a bike sharing program. The success of New York City's CitiBike program can be used as a reference to compare and contrast how a bike sharing program could be successful. Let's first look at the user type. In New York City, user data is gathered and recorded with respects to whether the user is a per use-of-service customer or a service subscriber. A vast majority, (over 75%) are service subscribers as seen in the story page below. (On this page, one additional visualization from the requested has been added.)
+The city of Des Moines, Iowa is a prime candidate for a bike sharing program. The success of New York City's CitiBike program can be used as a reference to compare and contrast how a bike sharing program could be successful. Let's first look at the user type. In New York City, user data is gathered and recorded with respects to whether the user is a per use-of-service customer or a service subscriber. A vast majority, (over 75%) are service subscribers as seen in the story page below. (On this page, two additional visualization from the requested has been added; Trips by UserType & Gender split)
 
 ![User Types](/Resources/StoryPg1.PNG)
 
@@ -46,4 +46,4 @@ We can see from this page that the largest volume of bike usage is circling 7-9a
 
 ## Summary
 
-Overall, Des Moines, Iowa is a valid candidate for a bike share system. The two additional visualizations I would recommend with the given data set have been included in the Results already (Chart: Usertype % split, Area Graph: Service Usage by Age, Map: Density Display of service)
+Overall, Des Moines, Iowa is a valid candidate for a bike share system. The two additional visualizations I would recommend with the given data set have been included in the Results already (Chart: Usertype % split, Area Graph: Service Usage by Age, Area Graph: Service Usage by Age (no outlier), Map: Density Display of service)
