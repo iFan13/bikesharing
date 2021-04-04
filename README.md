@@ -18,7 +18,7 @@ We can further see the popular days of the week that these services are used. Fo
 
 We are able to chart users ages as well by birth year.
 
-![Service Use by Age](/Resource/StoryPg2.PNG)
+![Service Use by Age](/Resources/StoryPg2.PNG)
 
 In this page, it is reflected once again that the male users are a majority of users for the service. However, we can also estimate the majority age of the users. Based on this graph, we can deduce that the users of the CitiBike Service are mostly born in 1980 to 1995 approximately (Ages 25-40). We can use this information and compare the population pyramids of New York City and Des Moines (sourced from [https://worldpopulationreview.com/us-cities/new-york-city-ny-population](https://worldpopulationreview.com/us-cities/new-york-city-ny-population) and [https://worldpopulationreview.com/us-cities/des-moines-ia-population](https://worldpopulationreview.com/us-cities/des-moines-ia-population)
 )
