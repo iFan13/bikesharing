@@ -8,7 +8,7 @@ This repository contains analysis and supporting images for potential a bike-sha
 
 Tableau Public domain is a tool used for this analysis. New York City's CitiBike program is used as a reference program, particularly for the month of August 2019 with data coming directly from CitiBike's system data (found [here](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)). The data is presented in vizualizations hosted by Tableau [here](https://public.tableau.com/profile/ian.fan#!/vizhome/NYCCitiBike_DesMoinesRef/NYCCitiBike).
 
-## Results 
+## Results
 
 The city of Des Moines, Iowa is a prime candidate for a bike sharing program. The success of New York City's CitiBike program can be used as a reference to compare and contrast how a bike sharing program could be successful. Let's first look at the user type. In New York City, user data is gathered and recorded with respects to whether the user is a per use-of-service customer or a service subscriber. A vast majority, (over 75%) are service subscribers as seen in the story page below.
 
@@ -16,7 +16,7 @@ The city of Des Moines, Iowa is a prime candidate for a bike sharing program. Th
 
 We can further see the popular days of the week that these services are used. For subscribers, the service is used constantly and with very similar intensity where as per-use customers tend to lean more towards the week end days of Saturday and Sunday for most usage. This implies the customer userbase could be non local traffic such as tourists. We can otherwise make the assumption that the program would still be able to be successful even for a 'local only' model and this is in consideration to NYC being a city visited very highly in the United States. We can also see from the above story page that the male portion of the users have greater frequency in using the bike sharing service. 
 
-We are able to chart users ages as well by birth year. 
+We are able to chart users ages as well by birth year.
 
 ![Service Use by Age](/Resource/StoryPg2.PNG)
 
