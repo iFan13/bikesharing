@@ -10,7 +10,7 @@ Tableau Public domain is a tool used for this analysis. New York City's CitiBike
 
 ## Results
 
-The city of Des Moines, Iowa is a prime candidate for a bike sharing program. The success of New York City's CitiBike program can be used as a reference to compare and contrast how a bike sharing program could be successful. Let's first look at the user type. In New York City, user data is gathered and recorded with respects to whether the user is a per use-of-service customer or a service subscriber. A vast majority, (over 75%) are service subscribers as seen in the story page below.
+The city of Des Moines, Iowa is a prime candidate for a bike sharing program. The success of New York City's CitiBike program can be used as a reference to compare and contrast how a bike sharing program could be successful. Let's first look at the user type. In New York City, user data is gathered and recorded with respects to whether the user is a per use-of-service customer or a service subscriber. A vast majority, (over 75%) are service subscribers as seen in the story page below. (On this page, one additional visualization from the requested has been added.)
 
 ![User Types](/Resources/StoryPg1.PNG)
 
@@ -20,7 +20,8 @@ We are able to chart users ages as well by birth year.
 
 ![Service Use by Age](/Resources/StoryPg2.PNG)
 
-In this page, it is reflected once again that the male users are a majority of users for the service. However, we can also estimate the majority age of the users. Based on this graph, we can deduce that the users of the CitiBike Service are mostly born in 1980 to 1995 approximately (Ages 25-40). We can use this information and compare the population pyramids of New York City and Des Moines (sourced from [https://worldpopulationreview.com/us-cities/new-york-city-ny-population](https://worldpopulationreview.com/us-cities/new-york-city-ny-population) and [https://worldpopulationreview.com/us-cities/des-moines-ia-population](https://worldpopulationreview.com/us-cities/des-moines-ia-population)
+(In this page, one additional visualizations from those requested has been added)
+It is reflected once again that the male users are a majority of users for the service. However, we can also estimate the majority age of the users. Based on this graph, we can deduce that the users of the CitiBike Service are mostly born in 1980 to 1995 approximately (Ages 25-40). We can use this information and compare the population pyramids of New York City and Des Moines (sourced from [https://worldpopulationreview.com/us-cities/new-york-city-ny-population](https://worldpopulationreview.com/us-cities/new-york-city-ny-population) and [https://worldpopulationreview.com/us-cities/des-moines-ia-population](https://worldpopulationreview.com/us-cities/des-moines-ia-population)
 )
 
 ![PopPyrCompare](/Resources/PopComparison.png)
@@ -33,12 +34,16 @@ Ride duration is also a factor in potential success. If the distance needed to b
 
 New York City is a densely populated city and is also dense in infrastructure. As such the use of vehicles is not ideal simply due to the volume of traffic. Furthermore, due to how closely packed the infrastructure is, it garners a greater potential to walk to one's destination. However, even given that statement, we can see from the records that people are using the bike sharing system and a large portion of that is for very short durations. Comparatively, Des Moines is less densly populated but is more spread apart making the appeal of using a mode of transportation more appealing. An implementation of a bike share system in Des Moines would likely have longer duration rides but would still be a faster alternative than walking then.
 
+![City Density](/Resources/StoryPg4.PNG)
+
 Des Moines as a city also favours sustainability as proven by various initiatives taken on by the city (for example: [clean energy commitment](https://www.dsm.city/news_detail_T2_R320.php#:~:text=A%20new%20resolution%20passed%20unanimously,greenhouse%20gas%20emissions%20by%202050.)). Having a bike share program available would be in line with reducing emissions initiative. Trips durations being so short for NYC implies that even for Des Moines whose urban infrastructure is less dense, bicycling would be a reasonable mode of transportation.  
 
 Finally, it's also worth noting how the bike share program is used. In New York City, we've tabulated start times of the trips recorded and further broken it down by gender.
 
-![Service Usage](/Resources/StoryPg4.PNG)
+![Service Usage](/Resources/StoryPg5.PNG)
 
 We can see from this page that the largest volume of bike usage is circling 7-9am and 4-6pm. These line up with standard office hours and implies that in NYC, users of the bike share system are using it as a method of daily commute. This is a very good sign as it implies that implementing a bike share system for Des Moines could also be used for daily commute purposes.
 
 ## Summary
+
+Overall, Des Moines, Iowa is a valid candidate for a bike share system. The two additional visualizations I would recommend with the given data set have been included in the Results already (Chart: Usertype % split, Area Graph: Service Usage by Age, Map: Density Display of service)
