@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains analysis and supporting images for potential a bike-sharing program proposal situated in Des Moines, Iowa. The results and analysis suggests a bike-sharing program is a solid business proposal. 
+This repository contains analysis and supporting images for potential a bike-sharing program proposal situated in Des Moines, Iowa. The results and analysis suggests a bike-sharing program is a solid business proposal.
 
 ## Resources
 
@@ -14,7 +14,7 @@ The city of Des Moines, Iowa is a prime candidate for a bike sharing program. Th
 
 ![User Types](/Resources/StoryPg1.PNG)
 
-We can further see the popular days of the week that these services are used. For subscribers, the service is used constantly and with very similar intensity where as per-use customers tend to lean more towards the week end days of Saturday and Sunday for most usage. This implies the customer userbase could be non local traffic such as tourists. We can otherwise make the assumption that the program would still be able to be successful even for a 'local only' model and this is in consideration to NYC being a city visited very highly in the United States. We can also see from the above story page that the male portion of the users have greater frequency in using the bike sharing service. 
+We can further see the popular days of the week that these services are used. For subscribers, the service is used constantly and with very similar intensity where as per-use customers tend to lean more towards the week end days of Saturday and Sunday for most usage. This implies the customer userbase could be non local traffic such as tourists. We can otherwise make the assumption that the program would still be able to be successful even for a 'local only' model and this is in consideration to NYC being a city visited very highly in the United States. We can also see from the above story page that the male portion of the users have greater frequency in using the bike sharing service.
 
 We are able to chart users ages as well by birth year.
 
@@ -46,4 +46,4 @@ We can see from this page that the largest volume of bike usage is circling 7-9a
 
 ## Summary
 
-Overall, Des Moines, Iowa is a valid candidate for a bike share system. The two additional visualizations I would recommend with the given data set have been included in the Results already (Chart: Usertype % split, Area Graph: Service Usage by Age, Area Graph: Service Usage by Age (no outlier), Map: Density Display of service)
+Overall, Des Moines, Iowa is a valid candidate for a bike share system. The two additional visualizations I would recommend with the given data set have been included in the Results already (Chart: Usertype % split, Area Graph: Service Usage by Age, Area Graph: Service Usage by Age (no outlier), Map: Density Display of service).
